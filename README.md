@@ -38,7 +38,7 @@ Core Web Vitals, Google PageSpeed, Schema Markup, Technical SEO
 ## 📌 Pinned Projects
 
 - 🔔 **[shopify-delivery-notifications](https://github.com/syedaliazlan/shopify-delivery-notifications)**  
-  A Flask-based Shopify webhook handler that sends automated delivery alerts via Twilio.
+  Node.js based custom Shopify app that sends automated delivery alerts via Twilio.
 
 - 🔄 **[ab-product-sync](https://github.com/syedaliazlan/shopify-to-ab)**
   Python script to bulk sync Shopify products with Antiques Boutique API using smart collections and metafields.
