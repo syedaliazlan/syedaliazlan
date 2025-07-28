@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a versatile full stack developer with 4+ years of hands-on experience crafting scalable, high-converting web solutions. My specialty lies in **Shopify Plus**, **custom WordPress development**, and modern JavaScript frameworks like **React** and **Next.js**.  
+I'm a versatile full stack developer with 5+ years of hands-on experience crafting scalable, high-converting web solutions. My specialty lies in **Shopify Plus**, **custom WordPress development**, and modern JavaScript frameworks like **React** and **Next.js**.  
 
 I’m also passionate about automation and backend scripting, often using **Python** and **Flask** to integrate third-party APIs and build internal tools that improve workflows.
 
