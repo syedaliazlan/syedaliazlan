@@ -37,10 +37,19 @@ Core Web Vitals, Google PageSpeed, Schema Markup, Technical SEO
 
 ## 📌 Pinned Projects
 
+- 🗑️ **[bin-collection-whatsapp-app](https://github.com/syedaliazlan/bin-collection-whatsapp-app)**  
+  Python Flask app that automates WhatsApp reminders for household bin collections using GreenAPI, with rotation scheduling and Render cron job deployment.
+
+- 🐶 **[dog-api-viewer](https://github.com/syedaliazlan/dog-api-viewer)**  
+  WordPress plugin integrating with The Dog API, featuring AJAX-powered dog image loading, caching, and admin API call logging.
+
+- 🛒 **[shopify-product-scraper](https://github.com/syedaliazlan/shopify-product-scraper)**  
+  Python scraper to fetch Shopify product data from single URLs or collections, supporting `.env` config and CSV output.
+
 - 🔔 **[shopify-delivery-notifications](https://github.com/syedaliazlan/shopify-delivery-notifications)**  
   Node.js based custom Shopify app that sends automated delivery alerts via Twilio.
 
-- 🔄 **[ab-product-sync](https://github.com/syedaliazlan/shopify-to-ab)**
+- 🔄 **[ab-product-sync](https://github.com/syedaliazlan/shopify-to-ab)**  
   Python script to bulk sync Shopify products with Antiques Boutique API using smart collections and metafields.
 
 - ⚙️ **[WordPress Custom Tools (Private Repo)]**  
