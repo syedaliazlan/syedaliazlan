@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ali Azlan
 
-🎯 **Full Stack Web Developer | Shopify Plus & WordPress Expert | React/Next.js Enthusiast**  
+🎯 **Full Stack Web Developer | Shopify Plus & WordPress Expert | AI & Automation Enthusiast**  
 📍 Based in Manchester, UK  
 🔗 [LinkedIn](https://linkedin.com/in/syed-ali-azlan)
 
@@ -8,27 +8,34 @@
 
 ## 🚀 About Me
 
-I'm a versatile full stack developer with 5+ years of hands-on experience crafting scalable, high-converting web solutions. My specialty lies in **Shopify Plus**, **custom WordPress development**, and modern JavaScript frameworks like **React** and **Next.js**.  
+I'm a versatile full stack developer with 5+ years of hands-on experience crafting scalable, high-converting web solutions.  
+My specialty lies in **Shopify Plus**, **custom WordPress development**, and modern JavaScript frameworks like **React** and **Next.js**.
 
-I’m also passionate about automation and backend scripting, often using **Python** and **Flask** to integrate third-party APIs and build internal tools that improve workflows.
+I’m also passionate about **automation and AI-powered tools**, often using **Python** with **Flask** and **FastAPI** to integrate APIs (Google, Twilio, GreenAPI, etc.) and build intelligent assistants, scrapers, and workflow automation systems.
 
-Currently learning **Next.js & Node.js**, and building performance-driven storefronts with server-side rendering and API-first architectures.
+Currently building **performance-driven storefronts** with server-side rendering, API-first architectures, and enhanced user experience through automation.
 
 ---
 
 ## 🛠 Tech Stack
 
 **Languages:**  
-JavaScript (ES6+), PHP, Python, HTML5, CSS3, SQL, Liquid
+JavaScript (ES6+), PHP, Python, HTML5, CSS3, SQL, Liquid, Bash/Shell
 
 **Frameworks & Libraries:**  
-React, Next.js (learning), jQuery, Laravel, Vue.js, Flask
+React, Next.js, Node.js (learning), jQuery, Laravel, Vue.js, Flask, FastAPI
 
 **CMS & Platforms:**  
 Shopify Plus, WordPress, WooCommerce
 
 **Tools & DevOps:**  
-Git, GitHub, Docker, cPanel, SiteGround, GA4, Klaviyo, Figma
+Git, GitHub, Docker, Render, cPanel, SiteGround, GA4, Klaviyo, Figma, Google Cloud APIs
+
+**AI & Automation:**  
+- Speech-to-Text: Whisper (OpenAI)  
+- Text-to-Speech: Pyttsx3  
+- NLP: spaCy, dateparser  
+- API Integrations: Google Calendar API, Twilio API, Shopify API, WhatsApp GreenAPI
 
 **SEO & Optimisation:**  
 Core Web Vitals, Google PageSpeed, Schema Markup, Technical SEO
@@ -36,6 +43,9 @@ Core Web Vitals, Google PageSpeed, Schema Markup, Technical SEO
 ---
 
 ## 📌 Pinned Projects
+
+- 🗣️ **[voice-calendar-agent](https://github.com/syedaliazlan/voice-calendar-agent)**  
+  FastAPI-based voice assistant that integrates Whisper STT, Pyttsx3 TTS, NLP, and Google Calendar API to schedule, update, and manage appointments with natural language commands.
 
 - 🗑️ **[bin-collection-whatsapp-app](https://github.com/syedaliazlan/bin-collection-whatsapp-app)**  
   Python Flask app that automates WhatsApp reminders for household bin collections using GreenAPI, with rotation scheduling and Render cron job deployment.
@@ -62,11 +72,12 @@ Core Web Vitals, Google PageSpeed, Schema Markup, Technical SEO
 
 ## 🧩 Recent Highlights
 
-- ✅ Rebuilt performance-critical components for Shopify Plus brands, hitting 90+ Google PageSpeed scores
-- 🔁 Integrated AI-based customer segmentation tools using Python scripts
-- 💬 Migrated content and user roles using custom WordPress plugins and API tools
-- 🔍 Enhanced SEO crawlability and indexing across large WooCommerce stores
-- 📈 Delivered A/B testing logic with data visualisation dashboards to support marketing teams
+- 🗣️ Built a FastAPI-based voice assistant integrating Google Calendar API, Whisper STT, and Pyttsx3 TTS for natural language scheduling.
+- ✅ Rebuilt performance-critical components for Shopify Plus brands, achieving 90+ Google PageSpeed scores.
+- 🔁 Integrated AI-based customer segmentation tools using Python scripts.
+- 💬 Migrated content and user roles using custom WordPress plugins and API tools.
+- 🔍 Enhanced SEO crawlability and indexing across large WooCommerce stores.
+- 📈 Delivered A/B testing logic with data visualisation dashboards to support marketing teams.
 
 ---
 
@@ -81,6 +92,6 @@ Core Web Vitals, Google PageSpeed, Schema Markup, Technical SEO
 
 ## 📫 Let’s Connect
 
-I'm always open to discussing freelance work, collaborations, or full-time roles in full stack or e-commerce development.
+I'm always open to discussing freelance work, collaborations, or full-time roles in full stack, e-commerce, and AI/automation development.
 
 💼 [LinkedIn](https://linkedin.com/in/syed-ali-azlan)
