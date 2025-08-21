@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Ali Azlan
-
-🎯 **Full Stack Web Developer | Shopify Plus & WordPress Expert | AI & Automation Enthusiast**  
 📍 Based in Manchester, UK  
-🔗 [LinkedIn](https://linkedin.com/in/syed-ali-azlan)
-
 ---
 
 ## 🚀 About Me
