@@ -8,13 +8,15 @@
 
 ## 🚀 About Me
 
-I'm a versatile Full-Stack Developer & Cyber Security Analyst with 5+ years of hands-on experience crafting scalable, secure, and high-converting web solutions.  
-My specialty lies in **Shopify Plus**, **custom WordPress development**, and modern JavaScript frameworks like **React** and **Next.js**.
+I'm a versatile **Full-Stack Developer & Cyber Security Analyst** with 5+ years of experience building dynamic, scalable, and secure web applications.  
 
-I’m also passionate about **automation and security**, often using **Python** with **Flask** and **FastAPI** to integrate APIs (Google, Twilio, GreenAPI, etc.), build intelligent assistants, scrapers, and workflow automation systems.  
-On the security side, I have hands-on experience in **SOC monitoring**, **SIEM (Splunk/Sentinel)**, **vulnerability management**, and **CMS hardening**, ensuring every project follows a **security-first approach**.
+I work across the stack — from interactive front-ends with **React** and **Next.js** to robust back-end APIs using **PHP** and **Python (Flask/FastAPI)**. I'm comfortable with databases like **MySQL**, **PostgreSQL**, and **MongoDB**, and frequently integrate third-party APIs to extend functionality.  
 
-Focused on creating full-stack solutions with a **security-first mindset** and **automation** at their core.
+Beyond development, I have an MSc in **Cyber Security** and hands-on experience with **SOC monitoring**, **SIEM (Splunk/Sentinel)**, **vulnerability management**, and **CMS hardening**, ensuring that every project I build follows a **security-first approach**.  
+
+I’m also passionate about **automation and DevOps**, working with tools like **Docker**, **CI/CD pipelines**, and **cloud platforms (AWS, Azure, DigitalOcean)** to deliver maintainable and performance-driven solutions.  
+
+Focused on delivering **scalable full-stack solutions** that balance performance, usability, and security.  
 
 ---
 
