@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Ali Azlan
-📍 Based in Manchester, UK  
 ---
 
 ## 🚀 About Me
