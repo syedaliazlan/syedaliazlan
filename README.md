@@ -5,7 +5,7 @@
 
 I'm a versatile **Full-Stack Developer & Cyber Security Analyst** with 5+ years of experience building dynamic, scalable, and secure web applications.  
 
-I work across the stack — from interactive front-ends with **React** and **Next.js** to robust back-end APIs using **PHP** and **Python (Flask/FastAPI)**. I'm comfortable with databases like **MySQL**, **PostgreSQL**, and **MongoDB**, and frequently integrate third-party APIs to extend functionality.  
+I work across the stack from interactive front-ends with **React** and **Next.js** to robust back-end APIs using **PHP** and **Python (Flask/FastAPI)**. I'm comfortable with databases like **MySQL**, **PostgreSQL**, and **MongoDB**, and frequently integrate third-party APIs to extend functionality.  
 
 Beyond development, I have an MSc in **Cyber Security** and hands-on experience with **SOC monitoring**, **SIEM (Splunk/Sentinel)**, **vulnerability management**, and **CMS hardening**, ensuring that every project I build follows a **security-first approach**.  
 
