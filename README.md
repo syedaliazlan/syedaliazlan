@@ -54,9 +54,6 @@ Core Web Vitals, Google PageSpeed, Schema Markup, Technical SEO
 - 🛒 **[shopify-product-scraper](https://github.com/syedaliazlan/shopify-product-scraper)**  
   Python scraper to fetch Shopify product data from single URLs or collections, supporting `.env` config and CSV output.
 
-- 🔔 **[shopify-delivery-notifications](https://github.com/syedaliazlan/shopify-delivery-notifications)**  
-  Node.js based custom Shopify app that sends automated delivery alerts via Twilio.
-
 - 🔄 **[ab-product-sync](https://github.com/syedaliazlan/shopify-to-ab)**  
   Python script to bulk sync Shopify products with Antiques Boutique API using smart collections and metafields.
 
